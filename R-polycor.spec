@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          0.7_8
-Release:          1
+Release:          2
 Summary:          Polychoric and Polyserial Correlations
 Group:            Sciences/Mathematics
 License:          GPL (>= 2)
